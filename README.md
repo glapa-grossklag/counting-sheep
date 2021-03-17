@@ -8,3 +8,4 @@ Having trouble sleeping? Count some sheep from the terminal.
 
 1. `$ make`
 2. `$ ./sheep`
+3. Press **q** at any time to quit.
