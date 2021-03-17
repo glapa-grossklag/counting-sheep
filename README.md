@@ -2,4 +2,4 @@
 
 Having trouble sleeping? Count some sheep from the terminal.
 
-![](./counting-sheep.gif)
+![An example of the program](./sheep.gif)
